@@ -8,3 +8,4 @@ Various Machine Learning and Deep Learning Projects done.
 **RF**: Random Forest </br>
 **LR**: Linear Regression </br>
 **LoR**: Logistc Regression </br>
+**PCA**: Principle Component Analysis </br>
